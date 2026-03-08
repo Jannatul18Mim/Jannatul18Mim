@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jannatul18Mim](https://github.com/Jannatul18Mim)
 
-- 📫 How to reach me **ug2102018@cse.pstu.ac.bd https://www.linkedin.com/in/jannatul-mim-577270368/**
+- 📫 How to reach me **ug2102018@cse.pstu.ac.bd**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RaDTwqAZIve0RwZyfLMc1n4DymzN1oYS/view?usp=drive_link](https://drive.google.com/file/d/1RaDTwqAZIve0RwZyfLMc1n4DymzN1oYS/view?usp=drive_link)
 
