@@ -1,15 +1,19 @@
-<h1 align="center">Hi 👋, I'm Jannatul Mim</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+👋;I'm+Jannatul+Mim" alt="Typing SVG" />
+  </a>
+</h1>
 <h3 align="center">A student in Computer Science and Engineering</h3>
 
 - 🔭 I’m currently working on [QuizAid-a cross platform Academic Quiz App](https://github.com/Jannatul18Mim/Quiz_App)
 
 - 🌱 I’m currently learning **Machine Learning, Cyber Security**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jannatul18Mim](https://github.com/Jannatul18Mim)
+- 👨‍💻 All of my projects are available at github.
 
 - 📫 How to reach me **ug2102018@cse.pstu.ac.bd**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RaDTwqAZIve0RwZyfLMc1n4DymzN1oYS/view?usp=drive_link](https://drive.google.com/file/d/1RaDTwqAZIve0RwZyfLMc1n4DymzN1oYS/view?usp=drive_link)
+- 📄 Interested about resume? [Click here.](https://drive.google.com/file/d/1RaDTwqAZIve0RwZyfLMc1n4DymzN1oYS/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
