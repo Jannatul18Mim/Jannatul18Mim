@@ -28,7 +28,7 @@
 <h3 align="center">My GitHub Stats 🚀</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jannatul18Mim&show_icons=true&theme=radical" alt="GitHub Stats" />
+  
 
   <br/>
 
