@@ -27,14 +27,9 @@
 
 <h3 align="center">My GitHub Stats 🚀</h3>
 
-<div align="center">
-  
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jannatul18Mim&theme=radical" alt="GitHub Streak" />
-</div> 
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jannatul18Mim&theme=radical" alt="Jannatul18Mim's GitHub Streak" />
+</p>
 
 <!--
 **Jannatul18Mim/Jannatul18Mim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
