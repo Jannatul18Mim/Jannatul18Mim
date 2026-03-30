@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ug2102018@cse.pstu.ac.bd**
 
-- 📄 Interested about resume? [Click here.](https://drive.google.com/file/d/1RaDTwqAZIve0RwZyfLMc1n4DymzN1oYS/view?usp=drive_link)
+- 📄 Interested about resume? [Click here.](https://drive.google.com/file/d/18VaLRgH1scXcBYK0MaASLnq84RifcuRO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
